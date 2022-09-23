@@ -17,6 +17,7 @@
 <h3 id="the-project"><strong>The Project</strong></h3>
 
 > This project is a theme switcher.
+>
 > It was created with the intention of demonstrating my knowledge and skills in handling themes.
 
 <h3 id="screenshot"><strong>Screenshot</strong></h3>
