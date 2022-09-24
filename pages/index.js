@@ -77,7 +77,7 @@ export default function Home() {
           </div>
         </main>
 
-        <footer className="flex flex-col items-center justify-center dark:bg-black bg-slate-100 my-10 ">
+        <footer className="flex flex-col items-center justify-center w-full dark:bg-black bg-slate-100 my-10 ">
           <p>&copy; {new Date().getFullYear()}</p>
           <p>By Gustavo Silva</p>
           <p>All rights reserved.</p>

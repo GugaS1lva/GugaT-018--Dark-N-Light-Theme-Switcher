@@ -1,5 +1,5 @@
 # Dark N' Light | Theme Switcher
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GugaS1lva/Portfolio-GugaSilva/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GugaS1lva/GugaT-018--Dark-N-Light-Theme-Switcher/blob/main/LICENSE) 
 
 <h2>Table of contents</h2>
 
